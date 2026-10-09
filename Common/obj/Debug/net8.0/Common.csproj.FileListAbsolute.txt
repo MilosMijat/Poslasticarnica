@@ -1,0 +1,36 @@
+C:\Users\Milos\source\repos\PoslasticarnicaNova\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Milos\source\repos\PoslasticarnicaNova\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Milos\source\repos\PoslasticarnicaNova\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\Milos\source\repos\PoslasticarnicaNova\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\source\repos\PoslasticarnicaNova\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Milos\source\repos\PoslasticarnicaNova\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Milos\source\repos\PoslasticarnicaNova\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\PoslasticarnicaNova\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Milos\source\repos\PoslasticarnicaNova\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\7929c60bc194902f\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\7929c60bc194902f\Common\bin\Debug\net8.0\Common.dll
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\7929c60bc194902f\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\7929c60bc194902f\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\7929c60bc194902f\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\7929c60bc194902f\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\7929c60bc194902f\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\7929c60bc194902f\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\7929c60bc194902f\Common\obj\Debug\net8.0\Common.dll
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\7929c60bc194902f\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\7929c60bc194902f\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\7929c60bc194902f\Common\obj\Debug\net8.0\ref\Common.dll

@@ -1,0 +1,57 @@
+Tabela atributa entiteta
+
+Napomena:
+- Tabela je popunjena na osnovu aktuelnog C# modela i trenutno koriscene seme baze u projektu.
+- Gde tacna SQL duzina nije vidljiva iz koda, navedeno je "VARCHAR (duzina definisana bazom)".
+- Atributi oznaceni znakom # predstavljaju primarne kljuceve.
+
+| Entitet | Atribut | Domen | Format | Obaveznost | Podrazumevana vrednost | Ogranicenje vrednosti | Napomena |
+|---|---|---|---|---|---|---|---|
+| PRODAVAC | IdProdavac# | INT | / | not null | automatski generisan | > 0 | Primarni kljuc |
+| PRODAVAC | Ime | VARCHAR (duzina definisana bazom) | tekst | not null | / | nije eksplicitno ograniceno u kodu | |
+| PRODAVAC | Prezime | VARCHAR (duzina definisana bazom) | tekst | not null | / | nije eksplicitno ograniceno u kodu | |
+| PRODAVAC | BrojTelefona | VARCHAR (duzina definisana bazom) | tekst | not null | / | nije eksplicitno ograniceno u kodu | |
+| PRODAVAC | Email | VARCHAR (duzina definisana bazom) | e-mail tekst | not null | / | nije eksplicitno ograniceno u kodu | |
+| PRODAVAC | Sifra | VARCHAR (duzina definisana bazom) | tekst | not null | / | nije eksplicitno ograniceno u kodu | U kodu se cuva kao string |
+| PRODAVAC | KorisnickoIme | VARCHAR (duzina definisana bazom) | tekst | not null | / | nije eksplicitno ograniceno u kodu | Koristi se za prijavu |
+| PORUDZBINA | IdPorudzbina# | INT | / | not null | automatski generisan | > 0 | Primarni kljuc |
+| PORUDZBINA | UkupanIznos | FLOAT / DECIMAL | broj sa decimalama | not null | 0 | >= 0 | U kodu je double; racuna se na osnovu stavki |
+| PORUDZBINA | Datum | DATE | yyyy-MM-dd u bazi; dd.MM.yyyy. u UI | not null | / | validan datum | |
+| PORUDZBINA | NacinPlacanja | VARCHAR | tekst | not null | / | aplikativno: Kes ili Kartica | |
+| PORUDZBINA | AdresaZaDostavu | VARCHAR (duzina definisana bazom) | tekst | null | NULL | / | Ako nema dostave, vrednost moze biti NULL |
+| PORUDZBINA | IdProdavac | INT | / | not null | / | > 0 | Strani kljuc ka PRODAVAC |
+| PORUDZBINA | IdMusterija | INT | / | not null | / | > 0 | Strani kljuc ka MUSTERIJA |
+| MUSTERIJA | IdMusterija# | INT | / | not null | automatski generisan | > 0 | Primarni kljuc |
+| MUSTERIJA | BrojTelefona | VARCHAR (duzina definisana bazom) | tekst | not null | prazan string u modelu | nije eksplicitno ograniceno u kodu | Zajednicki atribut za fizicko i pravno lice |
+| MUSTERIJA | IdGrad | INT | / | not null | / | > 0 | Strani kljuc ka GRAD |
+| FIZICKO_LICE | IdMusterija# | INT | / | not null | / | > 0 | Primarni kljuc i strani kljuc ka MUSTERIJA |
+| FIZICKO_LICE | Ime | VARCHAR (duzina definisana bazom) | tekst | not null | / | nije eksplicitno ograniceno u kodu | Popunjava se kada je izabrano fizicko lice |
+| FIZICKO_LICE | Prezime | VARCHAR (duzina definisana bazom) | tekst | not null | / | nije eksplicitno ograniceno u kodu | |
+| PRAVNO_LICE | IdMusterija# | INT | / | not null | / | > 0 | Primarni kljuc i strani kljuc ka MUSTERIJA |
+| PRAVNO_LICE | Naziv | VARCHAR (duzina definisana bazom) | tekst | not null | / | nije eksplicitno ograniceno u kodu | Popunjava se kada je izabrano pravno lice |
+| PRAVNO_LICE | PIB | VARCHAR (duzina definisana bazom) | tekst | not null | / | nije eksplicitno ograniceno u kodu | U UI se unosi umesto prezimena za pravno lice |
+| STAVKA_PORUDZBINE | IdPorudzbine# | INT | / | not null | / | > 0 | Deo slozenog primarnog kljuca; strani kljuc ka PORUDZBINA |
+| STAVKA_PORUDZBINE | Rb# | INT | / | not null | / | > 0 | Deo slozenog primarnog kljuca |
+| STAVKA_PORUDZBINE | Kolicina | INT | ceo broj | not null | 1 u UI | > 0 | Validacija postoji u formi |
+| STAVKA_PORUDZBINE | Iznos | FLOAT / DECIMAL | broj sa decimalama | not null | / | >= 0 | Predstavlja ukupan iznos stavke |
+| STAVKA_PORUDZBINE | IdPoslastice | INT | / | not null | / | > 0 | Strani kljuc ka POSLASTICA |
+| POSLASTICA | IdPoslastica# | INT | / | not null | automatski generisan | > 0 | Primarni kljuc |
+| POSLASTICA | Naziv | VARCHAR (duzina definisana bazom) | tekst | not null | / | ne sme biti prazno u UI | |
+| POSLASTICA | VrstaPoslastice | VARCHAR (duzina definisana bazom) | tekst | not null | / | ne sme biti prazno u UI | Kolona u bazi je vrstaPoslastice |
+| POSLASTICA | Cena | FLOAT / DECIMAL | broj sa decimalama | not null | / | > 0 | Unos prihvata i tacku i zarez |
+| POSLASTICA | Opis | VARCHAR (duzina definisana bazom) | tekst | not null | / | ne sme biti prazno u UI | |
+| STRUCNA_SPREMA | IdStrucnaSprema# | INT | / | not null | automatski generisan | > 0 | Primarni kljuc |
+| STRUCNA_SPREMA | Naziv | VARCHAR (duzina definisana bazom) | tekst | not null | / | ne sme biti prazno u UI | |
+| STRUCNA_SPREMA | Trajanje | INT | ceo broj | not null | / | > 0 | U kodu predstavljeno kao int |
+| PRSS | IdProdavac# | INT | / | not null | / | > 0 | Deo slozenog primarnog kljuca; strani kljuc ka PRODAVAC |
+| PRSS | IdStrucnaSprema# | INT | / | not null | / | > 0 | Deo slozenog primarnog kljuca; strani kljuc ka STRUCNA_SPREMA |
+| PRSS | StepenSS | INT | ceo broj | not null | / | > 0 | Validacija postoji u formi |
+| PRSS | DatumSticanja | DATE | yyyy-MM-dd u bazi; dd.MM.yyyy. u UI | not null | / | validan datum | |
+| GRAD | IdGrad# | INT | / | not null | unapred definisan ili automatski generisan | > 0 | Primarni kljuc |
+| GRAD | NazivGrada | VARCHAR (duzina definisana bazom) | tekst | not null | / | nije eksplicitno ograniceno u kodu | |
+
+Kratke napomene za dokumentaciju:
+- Entitet MUSTERIJA je specijalizovan na FIZICKO_LICE i PRAVNO_LICE.
+- U bazi ne postoji posebno polje TipMusterije; tip se zakljucuje na osnovu toga da li zapis postoji u tabeli Fizicko_Lice ili Pravno_Lice.
+- Za novcane vrednosti je u dokumentaciji prakticnije navesti DECIMAL ili NUMERIC, iako aplikacija trenutno koristi double.
+- Ako budes radio fizicki model baze, mozes naknadno da dopunis tacne duzine VARCHAR kolona iz SQL skripte ili SSMS-a.

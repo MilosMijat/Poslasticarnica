@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\client\\frmpretraziporudzbine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|solutionrelative:client\\frmpretraziporudzbine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\client\\frmpretraziporudzbine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|solutionrelative:client\\frmpretraziporudzbine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\client\\frmmusterija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|solutionrelative:client\\frmmusterija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\client\\frmss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|solutionrelative:client\\frmss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\client\\frmpretrazimusterije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|solutionrelative:client\\frmpretrazimusterije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26860FAB-D084-40EB-9197-096EB08E113C}|Common\\Common.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\common\\domain\\musterija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26860FAB-D084-40EB-9197-096EB08E113C}|Common\\Common.csproj|solutionrelative:common\\domain\\musterija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\client\\frmporudzbina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|solutionrelative:client\\frmporudzbina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\client\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|solutionrelative:client\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ED2176-D29B-45A3-963E-C34C7BB6A57F}|DBBroker\\DBBroker.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\dbbroker\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7ED2176-D29B-45A3-963E-C34C7BB6A57F}|DBBroker\\DBBroker.csproj|solutionrelative:dbbroker\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ED2176-D29B-45A3-963E-C34C7BB6A57F}|DBBroker\\DBBroker.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\dbbroker\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7ED2176-D29B-45A3-963E-C34C7BB6A57F}|DBBroker\\DBBroker.csproj|solutionrelative:dbbroker\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\client\\frmmusterija.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|solutionrelative:client\\frmmusterija.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\client\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|solutionrelative:client\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26860FAB-D084-40EB-9197-096EB08E113C}|Common\\Common.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\common\\domain\\poslastica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26860FAB-D084-40EB-9197-096EB08E113C}|Common\\Common.csproj|solutionrelative:common\\domain\\poslastica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\client\\frmposlastice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|solutionrelative:client\\frmposlastice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\client\\frmpovezivanje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|solutionrelative:client\\frmpovezivanje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26860FAB-D084-40EB-9197-096EB08E113C}|Common\\Common.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\common\\domain\\prss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26860FAB-D084-40EB-9197-096EB08E113C}|Common\\Common.csproj|solutionrelative:common\\domain\\prss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26860FAB-D084-40EB-9197-096EB08E113C}|Common\\Common.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\common\\domain\\strucnasprema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26860FAB-D084-40EB-9197-096EB08E113C}|Common\\Common.csproj|solutionrelative:common\\domain\\strucnasprema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\client\\frmpovezivanje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|solutionrelative:client\\frmpovezivanje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\poslasticarnicanova\\systemoperation\\pretraziporudzbineso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|solutionrelative:poslasticarnicanova\\systemoperation\\pretraziporudzbineso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\poslasticarnicanova\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|solutionrelative:poslasticarnicanova\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\client\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8604A9-60CD-44EE-81B4-F9C6C371440A}|Client\\Client.csproj|solutionrelative:client\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26860FAB-D084-40EB-9197-096EB08E113C}|Common\\Common.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\common\\domain\\stavkaporudzbine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26860FAB-D084-40EB-9197-096EB08E113C}|Common\\Common.csproj|solutionrelative:common\\domain\\stavkaporudzbine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26860FAB-D084-40EB-9197-096EB08E113C}|Common\\Common.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\common\\domain\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26860FAB-D084-40EB-9197-096EB08E113C}|Common\\Common.csproj|solutionrelative:common\\domain\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\poslasticarnicanova\\systemoperation\\vratisveprodavce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|solutionrelative:poslasticarnicanova\\systemoperation\\vratisveprodavce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\poslasticarnicanova\\systemoperation\\systemoperationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|solutionrelative:poslasticarnicanova\\systemoperation\\systemoperationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\poslasticarnicanova\\systemoperation\\obrisimusterijuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|solutionrelative:poslasticarnicanova\\systemoperation\\obrisimusterijuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\poslasticarnicanova\\systemoperation\\vratisvegradoveso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|solutionrelative:poslasticarnicanova\\systemoperation\\vratisvegradoveso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\poslasticarnicanova\\systemoperation\\vratisvemusterijeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|solutionrelative:poslasticarnicanova\\systemoperation\\vratisvemusterijeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\poslasticarnicanova\\systemoperation\\izmenimusterijuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|solutionrelative:poslasticarnicanova\\systemoperation\\izmenimusterijuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\poslasticarnicanova\\systemoperation\\dodajstrucnuspremuprodavcuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|solutionrelative:poslasticarnicanova\\systemoperation\\dodajstrucnuspremuprodavcuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|c:\\users\\milos\\source\\repos\\poslasticarnicanova - copy\\poslasticarnicanova\\systemoperation\\kreirajprodavcaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F5DE0-D9F9-45C3-8F34-97FC7B01A3CC}|PoslasticarnicaNova\\Server1.csproj|solutionrelative:poslasticarnicanova\\systemoperation\\kreirajprodavcaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova\\poslasticarnicanova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPretraziPorudzbine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmPretraziPorudzbine.cs",
+              "RelativeDocumentMoniker": "Client\\FrmPretraziPorudzbine.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmPretraziPorudzbine.cs [Design]",
+              "RelativeToolTip": "Client\\FrmPretraziPorudzbine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:02:07.476Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMusterija.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmMusterija.cs",
+              "RelativeDocumentMoniker": "Client\\FrmMusterija.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmMusterija.cs [Design]",
+              "RelativeToolTip": "Client\\FrmMusterija.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:01:31.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmPretraziMusterije.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmPretraziMusterije.cs",
+              "RelativeDocumentMoniker": "Client\\FrmPretraziMusterije.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmPretraziMusterije.cs [Design]",
+              "RelativeToolTip": "Client\\FrmPretraziMusterije.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:16:12.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmPorudzbina.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmPorudzbina.cs",
+              "RelativeDocumentMoniker": "Client\\FrmPorudzbina.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmPorudzbina.cs [Design]",
+              "RelativeToolTip": "Client\\FrmPorudzbina.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:40:04.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\DBBroker\\DbConnection.cs",
+              "RelativeDocumentMoniker": "DBBroker\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\DBBroker\\DbConnection.cs",
+              "RelativeToolTip": "DBBroker\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:34:44.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmSS.cs",
+              "RelativeDocumentMoniker": "Client\\FrmSS.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmSS.cs [Design]",
+              "RelativeToolTip": "Client\\FrmSS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T10:35:38.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmMusterija.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmMusterija.Designer.cs",
+              "RelativeDocumentMoniker": "Client\\FrmMusterija.Designer.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmMusterija.Designer.cs",
+              "RelativeToolTip": "Client\\FrmMusterija.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:49:59.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Musterija.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Common\\Domain\\Musterija.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\Musterija.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Common\\Domain\\Musterija.cs",
+              "RelativeToolTip": "Common\\Domain\\Musterija.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA4wCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:01:57.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPretraziPorudzbine.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmPretraziPorudzbine.cs",
+              "RelativeDocumentMoniker": "Client\\FrmPretraziPorudzbine.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmPretraziPorudzbine.cs",
+              "RelativeToolTip": "Client\\FrmPretraziPorudzbine.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwFUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:13:50.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Poslastica.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Common\\Domain\\Poslastica.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\Poslastica.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Common\\Domain\\Poslastica.cs",
+              "RelativeToolTip": "Common\\Domain\\Poslastica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:41:44.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PrSs.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Common\\Domain\\PrSs.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\PrSs.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Common\\Domain\\PrSs.cs",
+              "RelativeToolTip": "Common\\Domain\\PrSs.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T19:28:30.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StrucnaSprema.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Common\\Domain\\StrucnaSprema.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\StrucnaSprema.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Common\\Domain\\StrucnaSprema.cs",
+              "RelativeToolTip": "Common\\Domain\\StrucnaSprema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T19:28:06.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Client\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmMain.cs [Design]",
+              "RelativeToolTip": "Client\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:36:35.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Client\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmMain.cs",
+              "RelativeToolTip": "Client\\FrmMain.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwD4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:36:55.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Broker.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\DBBroker\\Broker.cs",
+              "RelativeDocumentMoniker": "DBBroker\\Broker.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\DBBroker\\Broker.cs",
+              "RelativeToolTip": "DBBroker\\Broker.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:15:06.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmPovezivanje.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmPovezivanje.cs",
+              "RelativeDocumentMoniker": "Client\\FrmPovezivanje.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmPovezivanje.cs [Design]",
+              "RelativeToolTip": "Client\\FrmPovezivanje.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T10:40:40Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmPoslastice.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmPoslastice.cs",
+              "RelativeDocumentMoniker": "Client\\FrmPoslastice.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmPoslastice.cs [Design]",
+              "RelativeToolTip": "Client\\FrmPoslastice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:20:55.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmPovezivanje.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmPovezivanje.cs",
+              "RelativeDocumentMoniker": "Client\\FrmPovezivanje.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmPovezivanje.cs",
+              "RelativeToolTip": "Client\\FrmPovezivanje.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T10:53:19.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PretraziPorudzbineSO.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\PretraziPorudzbineSO.cs",
+              "RelativeDocumentMoniker": "PoslasticarnicaNova\\SystemOperation\\PretraziPorudzbineSO.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\PretraziPorudzbineSO.cs",
+              "RelativeToolTip": "PoslasticarnicaNova\\SystemOperation\\PretraziPorudzbineSO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:19:33.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\Controller.cs",
+              "RelativeDocumentMoniker": "PoslasticarnicaNova\\Controller.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\Controller.cs",
+              "RelativeToolTip": "PoslasticarnicaNova\\Controller.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswIQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:11:13.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StavkaPorudzbine.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Common\\Domain\\StavkaPorudzbine.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\StavkaPorudzbine.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Common\\Domain\\StavkaPorudzbine.cs",
+              "RelativeToolTip": "Common\\Domain\\StavkaPorudzbine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T19:24:03.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Client\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Client\\FrmLogin.cs",
+              "RelativeToolTip": "Client\\FrmLogin.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwD0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:27:40.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Common\\Domain\\IEntity.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\Common\\Domain\\IEntity.cs",
+              "RelativeToolTip": "Common\\Domain\\IEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:33:17.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VratiSveProdavce.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\VratiSveProdavce.cs",
+              "RelativeDocumentMoniker": "PoslasticarnicaNova\\SystemOperation\\VratiSveProdavce.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\VratiSveProdavce.cs",
+              "RelativeToolTip": "PoslasticarnicaNova\\SystemOperation\\VratiSveProdavce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T12:45:32.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SystemOperationBase.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\SystemOperationBase.cs",
+              "RelativeDocumentMoniker": "PoslasticarnicaNova\\SystemOperation\\SystemOperationBase.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\SystemOperationBase.cs",
+              "RelativeToolTip": "PoslasticarnicaNova\\SystemOperation\\SystemOperationBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T16:11:03.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ObrisiMusterijuSO.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\ObrisiMusterijuSO.cs",
+              "RelativeDocumentMoniker": "PoslasticarnicaNova\\SystemOperation\\ObrisiMusterijuSO.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\ObrisiMusterijuSO.cs",
+              "RelativeToolTip": "PoslasticarnicaNova\\SystemOperation\\ObrisiMusterijuSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T17:37:46.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VratiSveGradoveSO.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\VratiSveGradoveSO.cs",
+              "RelativeDocumentMoniker": "PoslasticarnicaNova\\SystemOperation\\VratiSveGradoveSO.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\VratiSveGradoveSO.cs",
+              "RelativeToolTip": "PoslasticarnicaNova\\SystemOperation\\VratiSveGradoveSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T17:36:51.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VratiSveMusterijeSO.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\VratiSveMusterijeSO.cs",
+              "RelativeDocumentMoniker": "PoslasticarnicaNova\\SystemOperation\\VratiSveMusterijeSO.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\VratiSveMusterijeSO.cs",
+              "RelativeToolTip": "PoslasticarnicaNova\\SystemOperation\\VratiSveMusterijeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T17:37:12.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IzmeniMusterijuSO.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\IzmeniMusterijuSO.cs",
+              "RelativeDocumentMoniker": "PoslasticarnicaNova\\SystemOperation\\IzmeniMusterijuSO.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\IzmeniMusterijuSO.cs",
+              "RelativeToolTip": "PoslasticarnicaNova\\SystemOperation\\IzmeniMusterijuSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T17:37:30.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DodajStrucnuSpremuProdavcuSO.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\DodajStrucnuSpremuProdavcuSO.cs",
+              "RelativeDocumentMoniker": "PoslasticarnicaNova\\SystemOperation\\DodajStrucnuSpremuProdavcuSO.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\DodajStrucnuSpremuProdavcuSO.cs",
+              "RelativeToolTip": "PoslasticarnicaNova\\SystemOperation\\DodajStrucnuSpremuProdavcuSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T16:30:53.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KreirajProdavcaSO.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\KreirajProdavcaSO.cs",
+              "RelativeDocumentMoniker": "PoslasticarnicaNova\\SystemOperation\\KreirajProdavcaSO.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova - Copy\\PoslasticarnicaNova\\SystemOperation\\KreirajProdavcaSO.cs",
+              "RelativeToolTip": "PoslasticarnicaNova\\SystemOperation\\KreirajProdavcaSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T16:30:27.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\PoslasticarnicaNova\\Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova\\Client\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\PoslasticarnicaNova\\Client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:44:22.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova\\PoslasticarnicaNova\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\PoslasticarnicaNova\\PoslasticarnicaNova\\Form1.cs",
+              "ToolTip": "C:\\Users\\Milos\\source\\repos\\PoslasticarnicaNova\\PoslasticarnicaNova\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\PoslasticarnicaNova\\PoslasticarnicaNova\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:33:59.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

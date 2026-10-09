@@ -1,0 +1,30 @@
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\bin\Debug\net8.0\DBBroker.deps.json
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\bin\Debug\net8.0\DBBroker.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\bin\Debug\net8.0\DBBroker.pdb
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\bin\Debug\net8.0\Common.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\bin\Debug\net8.0\Common.pdb
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\obj\Debug\net8.0\DBBroker.csproj.AssemblyReference.cache
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\obj\Debug\net8.0\DBBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfoInputs.cache
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfo.cs
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\obj\Debug\net8.0\DBBroker.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\obj\Debug\net8.0\DBBroker.csproj.Up2Date
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\obj\Debug\net8.0\DBBroker.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\obj\Debug\net8.0\refint\DBBroker.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\obj\Debug\net8.0\DBBroker.pdb
+C:\Users\Milos\source\repos\PoslasticarnicaNova\DBBroker\obj\Debug\net8.0\ref\DBBroker.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\bin\Debug\net8.0\DBBroker.deps.json
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\bin\Debug\net8.0\DBBroker.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\bin\Debug\net8.0\DBBroker.pdb
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\bin\Debug\net8.0\Common.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\bin\Debug\net8.0\Common.pdb
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\obj\Debug\net8.0\DBBroker.csproj.AssemblyReference.cache
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\obj\Debug\net8.0\DBBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfoInputs.cache
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfo.cs
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\obj\Debug\net8.0\DBBroker.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\obj\Debug\net8.0\DBBroker.csproj.Up2Date
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\obj\Debug\net8.0\DBBroker.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\obj\Debug\net8.0\refint\DBBroker.dll
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\obj\Debug\net8.0\DBBroker.pdb
+C:\Users\Milos\source\repos\PoslasticarnicaNova - Copy\DBBroker\obj\Debug\net8.0\ref\DBBroker.dll
